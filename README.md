@@ -1,5 +1,7 @@
 # waveshare-watch-rs
 
+[![oosmetrics](https://api.oosmetrics.com/api/v1/badge/achievement/d90d81a8-b5be-4e00-8418-c1e0b9321f57.svg)](https://oosmetrics.com/repo/infinition/waveshare-watch-rs)
+
 <img width="400" height="270" alt="image" src="https://github.com/user-attachments/assets/331e6778-bf67-4f5f-a753-b65d6e0f1d57" />
 
 
